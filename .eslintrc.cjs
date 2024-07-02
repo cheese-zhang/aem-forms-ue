@@ -16,7 +16,6 @@ module.exports = {
     'linebreak-style': ['error', 'unix'],
     'import/extensions': ['error', {
       js: 'always',
-    }],
-    'no-console': 'on',
+    }]
   },
 };
